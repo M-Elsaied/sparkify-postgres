@@ -42,6 +42,9 @@ The data are in a folder `data` that has `songs` and `logs` each of them
 have `JSON` files that the program use. The path to the data is hard coded in
 `etl.py` 
 
+##ER Diagram
+![ER Diagram](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/33760/1604894109/Song_ERD.png)
+
 
 ## Licensing
 
